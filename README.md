@@ -18,7 +18,7 @@ Title: Police Management System
 ## Presentation Slides
 - Chapter 1: [E-POLICE MANAGEMENT SYSTEM.pptx](https://github.com/MohlalaComfort/Group-Project-2021/files/6332014/E-POLICE.MANAGEMENT.SYSTEM.pptx)
 - (Mohlala PC, Letoaba SJ, Sebela Z, Tshivhula WN)
-
+## System Requirements 
 
 
 
