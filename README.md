@@ -20,6 +20,7 @@ Title: Police Management System
 - (Mohlala PC, Letoaba SJ, Sebela Z, Tshivhula WN)
 ## System Requirements 
 [Software Requirements Specification Document_Deep Devs.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6550116/Software.Requirements.Specification.Document_Deep.Devs.docx)
+- Joseph: [Software Requirements Specification Document_Deep Devs.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6550369/Software.Requirements.Specification.Document_Deep.Devs.docx)
 
 
 
