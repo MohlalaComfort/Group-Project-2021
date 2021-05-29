@@ -21,6 +21,8 @@ Title: Police Management System
 ## System Requirements 
 [Software Requirements Specification Document_Deep Devs.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6550116/Software.Requirements.Specification.Document_Deep.Devs.docx)
 - Joseph: [Software Requirements Specification Document_Deep Devs.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6550369/Software.Requirements.Specification.Document_Deep.Devs.docx)
+- Comfort: [System Requirements.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6564851/System.Requirements.docx)
+
 
 
 
