@@ -1,5 +1,3 @@
-
-
 # Group-Project-2021
 
 Title: Police Management System
@@ -24,7 +22,7 @@ Title: Police Management System
 - Comfort: [System Requirements.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6564851/System.Requirements.docx)
 - Final Submission(Joseph, Comfort, William): [System Requirements Specifications_Final.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6566543/System.Requirements.Specifications_Final.docx)
 ## System Design Document 
--
+- [SSD 2020.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6813184/SSD.2020.docx)
 -
 -
 ## User Interface Prototype 
