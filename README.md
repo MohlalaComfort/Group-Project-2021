@@ -23,7 +23,7 @@ Title: Police Management System
 - Final Submission(Joseph, Comfort, William): [System Requirements Specifications_Final.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6566543/System.Requirements.Specifications_Final.docx)
 ## System Design Document 
 - [SSD 2020.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6813184/SSD.2020.docx)
--[System Design Document 2021.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6834079/System.Design.Document.2021.docx)
+- [System Design Document 2021.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6834079/System.Design.Document.2021.docx) (Updated)
 
 -
 ## User Interface Prototype 
