@@ -25,7 +25,6 @@ Title: Police Management System
 ## System Design Document 
 - [SSD 2020.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6813184/SSD.2020.docx) (Date:2021) ⚠️
 - [System Design Document 2021.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6834079/System.Design.Document.2021.docx) (Updated)
-
--[SSD2020 Editable.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6916212/SSD2020.Editable.docx)
+- [SSD2020 Editable.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6916212/SSD2020.Editable.docx)
 ## User Interface Prototype 
 
