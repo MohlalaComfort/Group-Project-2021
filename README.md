@@ -22,6 +22,7 @@ Title: Police Management System
 - Joseph: [Software Requirements Specification Document_Deep Devs.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6550369/Software.Requirements.Specification.Document_Deep.Devs.docx)
 - Comfort: [System Requirements.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6564851/System.Requirements.docx)
 - Final Submission(Joseph, Comfort, William): [System Requirements Specifications_Final.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6566543/System.Requirements.Specifications_Final.docx)
+- Presentation Slides: [Presentation.pptx](https://github.com/MohlalaComfort/Group-Project-2021/files/6967886/Presentation.pptx)
 ## System Design Document 
 - [SSD 2020.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6813184/SSD.2020.docx) (Date:2021) ⚠️
 - [System Design Document 2021.docx](https://github.com/MohlalaComfort/Group-Project-2021/files/6834079/System.Design.Document.2021.docx) (Updated)
